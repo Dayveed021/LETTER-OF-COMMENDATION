@@ -1,0 +1,19 @@
+.address{margin-left:500px;
+line-height: 30px;}
+.recipient{line-height: 30px;margin-left: 10px;}
+.title{margin-left: 300px;
+font-weight: bold;}
+.closing{margin-left: 430px;
+line-height: 30px;}
+.container{font-family: Arial, Helvetica, sans-serif;
+padding:20px;
+background-color: white;
+}
+.salute{font-style: italic; margin-left: 10px;}
+.body{margin-left: 70px;
+margin-right: 30px;}
+body{background-color:burlywood;
+margin-top: 40px;
+margin-left: 30px;
+margin-right: 37.15px;}
+hr{border: 1px solid;}
